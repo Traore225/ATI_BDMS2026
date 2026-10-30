@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+title: "Experimental consumer price index — Senegal"
+authors:
+  - name: "AfDB – Data Innovation for Africa (DI4A)"
+date-released: 2026-10-30
+url: "https://traore225.github.io/ATI_BDMS2026/"
+type: dataset
+keywords: [consumer price index, inflation, COICOP 2018, experimental statistics, Senegal]

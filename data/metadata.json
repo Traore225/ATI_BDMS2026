@@ -1,0 +1,46 @@
+{
+ "iso2": "SN",
+ "iso3": "SEN",
+ "name_en": "Senegal",
+ "name_fr": "Sénégal",
+ "currency": "XOF",
+ "symbol": "FCFA",
+ "languages": [
+  "fr"
+ ],
+ "brand": "AfDB – Data Innovation for Africa (DI4A)",
+ "version": "2.0.0",
+ "generated": "2026-10-30T06:10Z",
+ "frequency": "D",
+ "periods": [
+  "2026-10-29",
+  "2026-10-30"
+ ],
+ "weights_status": "given",
+ "weights_source": "ANSD, IHPC base 2023 = 100, COICOP 2018 (NCOA 2018), release of February 2026, Tableau 1 'L'indice global et les treize (13) divisions', column Pondération (total 10 000); re-read 2026-10-28",
+ "weights_url": "https://www.vie-publique.sn/docs/8df31df5-8673-45bf-95a4-0733b38ee649/indice-harmonise-des-prix-a-la-consommation-ihpc-senegal-fevrier-2026-ansd.pdf",
+ "basket_share": 1.0,
+ "demo": false,
+ "excluded_natures": [
+  "rent_ask"
+ ],
+ "title_en": "Experimental consumer price index",
+ "title_fr": "Indice expérimental des prix à la consommation",
+ "capital": {
+  "name": "Dakar",
+  "lat": 14.6928,
+  "lon": -17.4467
+ },
+ "kpi": {
+  "index": 98.95,
+  "change": -1.05,
+  "cumulative": -1.05,
+  "period": "2026-10-30",
+  "first_period": "2026-10-29",
+  "observations": 2745,
+  "items": 1733,
+  "sources": 15,
+  "divisions": 13,
+  "matched": 812
+ }
+}

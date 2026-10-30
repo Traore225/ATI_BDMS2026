@@ -1,0 +1,29 @@
+id,name,kind,url,divisions,status,excluded,observations_this_run,items_this_run
+sn_jumia,Jumia Sénégal,ecommerce,https://www.jumia.sn,01 03 05 06 08 09 13,verified,False,991,798
+sn_auchan,Auchan Sénégal — online shop,ecommerce,https://www.auchan.sn,01 02 05 13,verified,False,793,411
+sn_crse_fuel,CRSE — structure of petroleum product prices (change alarm),tariff,https://www.crse.sn,07 04,partial,False,0,0
+sn_fuel_grid,Fuel and butane retail prices (government and CRSE decisions),tariff,https://primature.sn/publications/communiques-officiels/ajustement-des-prix-des-carburants-compter-du-samedi-15-aout,07 04,verified,False,8,4
+sn_crse_electricity,CRSE — Senelec household electricity tariffs,tariff,https://www.crse.sn/wp-content/uploads/2025/12/Grilles-tarifaires-Senelec-et-CER-applicables-a-compter-du-1er-janvier-2026.pdf,04,verified,False,6,3
+sn_expat_dakar_rent,Expat-Dakar — rental listings,rent,https://www.expat-dakar.com/appartements-a-louer,04,verified,False,0,0
+sn_expat_dakar_goods,"Expat-Dakar — furniture, fashion, multimedia",listing,https://www.expat-dakar.com,03 05 08,partial,False,299,222
+sn_keur_immo,"Keur-Immo — rental listings, Dakar",rent,https://keur-immo.com/senegal/appartements-a-louer-dakar/,04,verified,False,0,0
+sn_orange,Orange Sénégal — internet passes,tariff,https://www.orange.sn/pass-internet,08,verified,False,24,12
+sn_yas,Yas (ex-Free) — internet and mixed bundles,tariff,https://www.yas.sn/particulier/mobile-plans/internet/,08,verified,False,24,12
+sn_transport,TER Dakar and BRT — public transport fares,tariff,https://www.terdakar.sn/quel-titre-choisir,07,verified,False,20,10
+sn_wave,Wave — mobile money fees,tariff,https://www.wave.com/fr/,12,verified,False,2,1
+sn_wfp_hdx,WFP market prices (HDX) — history,market,https://data.humdata.org/dataset/wfp-food-prices-for-senegal,01,partial,False,0,0
+sn_rtfp,World Bank RTFP — monthly cereal prices and food price index (67 markets),market,https://microdata.worldbank.org/index.php/catalog/6173,01,verified,False,0,0
+sn_dakarfood,Dakar Food Delivery — restaurant menus,ecommerce,https://dakarfooddelivery.com/restaurant,11,partial,False,478,210
+sn_pna,SEN-PNA — essential generic medicines (public supply price),tariff,https://boutique.sen-pna.sn/,06,partial,False,2,1
+sn_auchan_alcohol,Auchan Sénégal — alcoholic drinks,ecommerce,https://www.auchan.sn/categorie/boissons-alcoolisees,02,partial,False,82,41
+sn_ucad_fees,Public universities — annual registration fees (arrêté n° 00533 of 15/01/2015),tariff,https://www.sencampus.com/dossiers/financer-ses-etudes-sans-bourse/combien-coutent-vraiment-des-etudes-au-senegal,10,partial,False,6,3
+sn_food_caps,"Administered consumer prices — rice, sugar, palm oil, bread (Ministry of Trade)",tariff,https://www.primature.sn/publications/communiques-officiels/baisse-du-prix-du-riz-ordinaire-brise,01,partial,False,8,4
+sn_momo_tax,"Tax on mobile-money transfers (TTA, 0.5 %)",tariff,https://senego.com/mobile-money-la-taxe-sur-les-transferts-dargent-entre-en-vigueur-ce-17-decembre-2025_1903513.html,12,partial,False,2,1
+sn_fews_net,FEWS NET Data Warehouse — market prices (Senegal),market,https://fews.net/west-africa/senegal,01,unverified,False,0,0
+sn_worldbank,World Bank — official CPI (annual),benchmark,https://api.worldbank.org/v2/country/SEN/indicator/FP.CPI.TOTL,,verified,False,0,0
+sn_imf,IMF DataMapper — inflation (WEO),benchmark,https://www.imf.org/external/datamapper/api/v1/PCPIPCH/SEN,,verified,False,0,0
+sn_glovo,Glovo Dakar,ecommerce,https://glovoapp.com/fr/sn/dakar/,11,excluded,True,0,0
+sn_seneau,SEN'EAU water tariffs,tariff,https://www.seneau.sn/services/tarifs-eau/,04,excluded,True,0,0
+sn_ansd,ANSD (direct),benchmark,https://www.ansd.sn,,excluded,True,0,0
+sn_coinafrique,CoinAfrique SN,listing,https://sn.coinafrique.com,03 05 09,excluded,True,0,0
+sn_private_schools,Private school fees (press reports),tariff,https://senego.com/ecoles-privees-frais-en-hausse-et-absence-de-bareme-homologue-au-senegal_2004684.html,10,excluded,True,0,0
